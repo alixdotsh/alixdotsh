@@ -8,7 +8,7 @@ a data visualization panel and elo-like rating system for osu! tournament player
 **about:**
 - ✔️ React.JS / React.TS
 - ✔️ TypeScript / JavaScript 
-- 🆗 ASP.NET core / .NET core
+- 🆗 ASP.NET core / .NET core / C#
 - 🆗 Python
 - 🆗 Go
 - 🆗 Next.JS
