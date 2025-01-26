@@ -2,7 +2,7 @@
 
 i am an actively learning deveolper that has a focus for software engineering. currently i am well versed in frontend web development and design.
 
-**current focus: none!
+**current focus:** none!
 
 **about:**
 - ✔️ React.JS / React.TS
