@@ -2,8 +2,7 @@
 
 i am an actively learning deveolper that has a focus for software engineering. currently i am well versed in frontend web development and design.
 
-**current focus: [osu! Tournament Rating](https://github.com/osu-tournament-rating)**<br />
-a data visualization panel and elo-like rating system for osu! tournament players
+**current focus: none!
 
 **about:**
 - ✔️ React.JS / React.TS
